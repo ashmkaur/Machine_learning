@@ -1,2 +1,2 @@
-# Hi! I've started learning this is my first project 
+# Hi! I've started learning this is my first project on Linear Regression........
 # "Cupcakes or muffins on the basis of just two features "Flour, Sugar", this is a classification based support vector machine model which checks whether a particular recipe is cupcake or a muffin?
